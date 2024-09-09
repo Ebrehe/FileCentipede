@@ -198,118 +198,118 @@
     "message": "Collector Mode"
   },
   "record": {
-    "message": "Record"
+    "message": "Kaydet"
   },
   "determined": {
     "message": "Determined"
   },
   "uncertain": {
-    "message": "Uncertain"
+    "message": "Belirsiz"
   },
   "segments": {
-    "message": "Segments"
+    "message": "Segmentler"
   },
   "hide_low_resolution": {
-    "message": "Hide low resolution"
+    "message": "Düşük çözünürlükleri gizle"
   },
   "all": {
-    "message": "All"
+    "message": "Hepsi"
   },
   "adverts": {
-    "message": "Adverts"
+    "message": "Reklamlar"
   },
   "adverts_detection": {
-    "message": "Adverts detection"
+    "message": "Reklam tespiti"
   },
   "resolution": {
-    "message": "Resolution"
+    "message": "Çözünürlük"
   },
   "play_all": {
-    "message": "Play all"
+    "message": "Hepsini oynat"
   },
   "pause_all": {
-    "message": "Pause all"
+    "message": "hepsini duraklat"
   },
   "load_all": {
-    "message": "Load all"
+    "message": "Hepsini yükle"
   },
   "brute_force_search": {
-    "message": "Brute-force search"
+    "message": "Kaba kuvvet araması"
   },
   "readme": {
-    "message": "Readme"
+    "message": "Okubeni"
   },
   "help": {
-    "message": "Help"
+    "message": "Yardım"
   },
   "start": {
-    "message": "Start"
+    "message": "Başlat"
   },
   "stop": {
-    "message": "Stop"
+    "message": "Durdur"
   },
   "port": {
     "message": "Port"
   },
   "action": {
-    "message": "Action"
+    "message": "Aksiyon"
   },
   "actions": {
     "message": "Actions"
   },
   "are_u_sure": {
-    "message": "Are you sure?"
+    "message": "Emin misin?"
   },
   "crawler": {
     "message": "Crawler"
   },
   "feature_not_implemented": {
-    "message": "This feature is currently reserved and has not been implemented yet."
+    "message": "Bu özellik şu anda rezerve edilmiş olup henüz uygulamaya eklenmemiştir."
   },
   "remove_low_quality_videos": {
-    "message": "Remove low quality videos"
+    "message": "Düşük Çözünürlüklü videolar kaldır"
   },
   "remove_failed_loading_videos": {
-    "message": "Remove failed loading videos"
+    "message": "Başarısız yükleme videolarını kaldır"
   },
   "page_url": {
-    "message": "Page URL"
+    "message": "Sayfa bağlantısı"
   },
   "file_size": {
-    "message": "File size"
+    "message": "Dosya boyutu"
   },
   "file_duration": {
     "message": "File duration"
   },
   "playback_speed": {
-    "message": "Playback speed"
+    "message": "Oynatma hızı"
   },
   "video_duration": {
     "message": "Video duration"
   },
   "video_source": {
-    "message": "Video source"
+    "message": "Video kaynağı"
   },
   "read_from_cache": {
-    "message": "Read from cache"
+    "message": "Önbellekten oku"
   },
   "record_from_screen": {
-    "message": "Record from screen"
+    "message": "Ekrandan kaydet"
   },
   "progress": {
-    "message": "Progress"
+    "message": "İlerleme"
   },
   "allow_external_messages": {
-    "message": "Allow external messages"
+    "message": "Harici mesajlara izin ver"
   },
   "example": {
-    "message": "Example"
+    "message": "Örnek"
   },
   "deep_analysis_text_": {
-    "message": "Enabling this option will perform a deep analysis of the webpage to find hidden video or audio resources,<br/> but at the cost of consuming more CPU resources.<br/> If the webpage has fewer scripts or low data interaction frequency,<br/> the additional consumption can be negligible."
+    "message": "Bu seçeneği etkinleştirmek, gizli video veya ses kaynaklarını bulmak için web sayfasının derinlemesine bir analizini gerçekleştirecektir,<br/> ancak daha fazla CPU kaynağı tüketme pahasına<br/> Web sayfasında daha az komut dosyası veya az veri varsa etkileşim frekansı varsa,<br/> tüketim ihmal edilebilir düzeyde olabilir."
   },
   "allow_external_messages_text_": {
-    "message": "Allows other extensions or JS scripts to send messages to this extension,<br/> typically used when this extension cannot capture media resources on a certain webpage,<br/> you can write JS scripts for that webpage and send the script's results to this extension,<br/> eliminating the need to separately develop frontend and download functionality."
+    "message": "Diğer uzantıların veya JS betiklerinin bu uzantıya mesaj göndermesine izin verir,<br/> Genellikle bu uzantı belirli bir web sayfasındaki medya kaynaklarını yakalayamadığında kullanılır,<br/> bu web sayfası için JS betikleri yazabilir ve betiğin sonuçlarını bu uzantıya gönderebilirsiniz,<br/> böylece ön yüz ve indirme işlevlerini ayrı ayrı geliştirme gereksinimini ortadan kaldırırsınız."
   },
   "filename_rule_tips_": {
     "message": "Uses CSS selector rules to retrieve the text of a specified element on the webpage as the preferred filename for media files in that domain.<br/> If retrieval fails, it will still use the title or og:title as the filename."
